@@ -24,7 +24,12 @@ st.markdown('## About', unsafe_allow_html=True)
 st.info('''
 - Master Degree in Business Analytics and Information Management at Purdue University. 
 - Love digging deep into data and take challenge!
-- Core Competency: Business Analytics, Data Mining, Logistics, Machine Learning, A/B Test, Unstructured Data, Data Visualization, Statistics, Operation Management, Written/Oral Communication.
+- Core Competency: Business Analytics, Data Mining, Machine Learning, Logistics,  A/B Test, Unstructured Data, Data Visualization, Statistics, Operation Management, Written/Oral Communication.
+''')
+🎓 
+
+st.info('''
+- ### I am graduating in May 2022 and open to full-time position! 
 ''')
 
 #####################
@@ -206,7 +211,7 @@ txt4('R', 'Writing Efficient R Code', 'https://www.datacamp.com/statement-of-acc
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `R`, `SQL`, `SAS`')
+txt3('Programming', '`Python`, `R`, `SQL`, `SAS`, `SAS EM`')
 txt3('Statistics', '`Minitab`')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
 txt3('Data visualization', '`matplotlib`, `seaborn`, `ggplot2`')
