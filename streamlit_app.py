@@ -28,7 +28,8 @@ st.markdown('## About', unsafe_allow_html=True)
 st.info('''
 - Master Degree in Business Analytics and Information Management at Purdue University. 
 - Love digging deep into data and take challenge!
-- Core Competency: Business Analytics, Data Mining, Machine Learning, Logistics,  A/B Test, Unstructured Data, Data Visualization, Statistics, Operation Management, Written/Oral Communication.
+- Core Competencies: Business Analytics, Data Mining, Machine Learning, Logistics,  A/B Test, Unstructured Data, Data Visualization, Statistics, Operation Management, Written/Oral Communication,
+High flexibility, responsibility, and accountability.
 ''')
 
 
@@ -121,14 +122,14 @@ st.markdown('''
 txt('**Master of Science** (Business Analytics and Information Management), *Purdue University*, United States',
 '2021-2022')
 st.markdown('''
-- GPA: `3.60`
+- GPA: `3.60/4.00`
 
 ''')
 
 txt('**Bachelors of Arts** (Economics), *National Chengchi University*, Taiwan',
 '2013-2017')
 st.markdown('''
-- GPA: `3.97`
+- GPA: `3.97/4.00`
 - Securities Research Club.
 ''')
 
