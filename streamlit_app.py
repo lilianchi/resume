@@ -26,7 +26,6 @@ st.info('''
 - Love digging deep into data and take challenge!
 - Core Competency: Business Analytics, Data Mining, Machine Learning, Logistics,  A/B Test, Unstructured Data, Data Visualization, Statistics, Operation Management, Written/Oral Communication.
 ''')
-🎓 
 
 st.info('''
 - ### I am graduating in May 2022 and open to full-time position! 
