@@ -40,7 +40,7 @@ st.markdown("""
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link disabled" href="/">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#education">Education</a>
@@ -65,7 +65,7 @@ st.markdown("""
 #####################
 # Custom function for printing text
 def txt(a, b):
-  col1, col2 = st.columns([4,1])
+  col1, col2 = st.columns([5,1])
   with col1:
     st.markdown(a)
   with col2:
@@ -95,7 +95,7 @@ def txt4(a, b, c):
     st.markdown(c)
 
 def txt5(a, b, c, d):
-  col1, col2, col3, col4 = st.columns([1,2,4,2])
+  col1, col2, col3, col4 = st.columns([0.8,2.5,4.5,2])
   with col1:
     st.markdown(f'`{a}`')
   with col2:
