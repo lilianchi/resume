@@ -130,7 +130,7 @@ st.markdown('''
 ''')
 
 txt('**Associate Specialist, Sales Operations**','2020-2021')
-txt('Commercial Operations & Strategy, SFE team, Merck', 'Taiwan')
+txt('Commercial Operations & Strategy, SFE team, *Merck*', 'Taiwan')
 st.markdown('''
 - Analyzed multiple sales data sources to generate interactive reports for `65+` products. 
 - Conducted sales budget setting, closely tracked and monitored for better `effectiveness`.
@@ -138,7 +138,7 @@ st.markdown('''
 ''')
 
 txt('**Care Program Coordinator**', '2017-2019')
-txt('Global Service, Chunghwa Mobile Account, Nokia', 'Taiwan')
+txt('Global Service, Chunghwa Mobile Account, *Nokia*', 'Taiwan')
 st.markdown('''
 - Executed a two-year `Technical Service Agreement` for 3G and LTE products, involving quarterly payment calculations, service quality, emergency reports and care service APP operations.
 - Analyzed and forecasted the replacement rate of 3G/ LTE installation bases, including `8 teams` and `80+` type of products.
@@ -146,7 +146,7 @@ st.markdown('''
 ''')
 
 txt('**Administrative Assistant Intern**', '2016-2017')
-txt('Small and Mid-market Solutions and Partners, Microsoft', 'Taiwan')
+txt('Small and Mid-market Solutions and Partners, *Microsoft*', 'Taiwan')
 st.markdown('''
 - Led `60` technical and sales trainings with `367 hrs`. in total, with an average satisfaction rating of `8.47/9.00`.
 - Managed Partner@MS `APP` and `website` through Asia Pacific Region.
