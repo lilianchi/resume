@@ -20,6 +20,10 @@ st.write('''
 image = Image.open('Professional Photo_2.png')
 st.image(image, width=150)
 
+st.info('''
+##### I am graduating in May 2022 and open to full-time position! 
+''')
+
 st.markdown('## About', unsafe_allow_html=True)
 st.info('''
 - Master Degree in Business Analytics and Information Management at Purdue University. 
@@ -27,9 +31,6 @@ st.info('''
 - Core Competency: Business Analytics, Data Mining, Machine Learning, Logistics,  A/B Test, Unstructured Data, Data Visualization, Statistics, Operation Management, Written/Oral Communication.
 ''')
 
-st.info('''
-- ### I am graduating in May 2022 and open to full-time position! 
-''')
 
 #####################
 # Navigation
