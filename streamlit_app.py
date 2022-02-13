@@ -118,15 +118,15 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Master of Science** (Business Analytics and Information Management), *Purdue University*','2021-2022')
-txt('', 'United States')
+txt('**Master of Science**, Business Analytics and Information Management','2021-2022')
+txt('*Purdue University*', 'United States')
 st.markdown('''
 - GPA: `3.60/4.00`
 
 ''')
 
-txt('**Bachelors of Arts** (Economics), *National Chengchi University*, Taiwan',
-'2013-2017')
+txt('**Bachelors of Arts**, Economics', '2013-2017')
+txt('*National Chengchi University*', 'Taiwan')
 st.markdown('''
 - GPA: `3.97/4.00`
 - Securities Research Club.
