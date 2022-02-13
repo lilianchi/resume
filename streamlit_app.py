@@ -20,7 +20,7 @@ st.write('''
 image = Image.open('Professional Photo_2.png')
 st.image(image, width=150)
 
-st.markdown('## Summary', unsafe_allow_html=True)
+st.markdown('## About', unsafe_allow_html=True)
 st.info('''
 - Master Degree in Business Analytics and Information Management at Purdue University. 
 - Love digging deep into data and take challenge!
