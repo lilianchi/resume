@@ -24,7 +24,7 @@ st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - Master Degree in Business Analytics and Information Management at Purdue University. 
 - Love digging deep into data and take challenge!
-- Looking for full time Data Scientist/ Data Analyst/ Business Analyst Position.
+- Core Competency: Business Analytics, Data Mining, Logistics, Machine Learning, A/B Test, Unstructured Data, Data Visualization, Statistics, Operation Management, Written/Oral Communication.
 ''')
 
 #####################
