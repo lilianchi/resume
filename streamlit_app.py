@@ -118,8 +118,7 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Master of Science** (Business Analytics and Information Management),
-    *Purdue University*','2021-2022')
+txt('**Master of Science** (Business Analytics and Information Management), *Purdue University*','2021-2022')
 txt('', 'United States')
 st.markdown('''
 - GPA: `3.60/4.00`
