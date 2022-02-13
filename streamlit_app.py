@@ -21,7 +21,7 @@ image = Image.open('Professional Photo_2.png')
 st.image(image, width=150)
 
 st.info('''
-##### I am graduating in May 2022 and open to full-time position! 
+##### I am graduating in May 2022 and am open to full-time positions! 
 ''')
 
 st.markdown('## About', unsafe_allow_html=True)
