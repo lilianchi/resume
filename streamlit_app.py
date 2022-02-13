@@ -154,7 +154,7 @@ st.markdown('''
 - Collaborated with third-party partners (HP, Oracle, and EMC) to ensure completeness of technical warranties; ranked in `top 5%` for care program internal audits in the Greater China region.
 ''')
 
-txt('**Administrative Assistant Intern**', '2016-2017')
+txt('**Intern, Administrative Assistant**', '2016-2017')
 txt('Small and Mid-market Solutions and Partners, *Microsoft*', 'Taiwan')
 st.markdown('''
 - Led `60` technical and sales trainings with `367 hrs`. in total, with an average satisfaction rating of `8.47/9.00`.
