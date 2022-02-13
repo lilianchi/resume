@@ -62,6 +62,9 @@ st.markdown("""
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#contact">Contact</a>
+      </li>
     </ul>
   </div>
 </nav>
@@ -225,6 +228,13 @@ st.markdown('''
 ''')
 txt2('LinkedIn', 'https://www.linkedin.com/in/li-chi-lilian-chuang-a985b511a/')
 txt2('GitHub', 'https://github.com/lilianchi')
+
+#####################
+st.markdown('''
+## Contact
+''')
+txt3('E-mail', 'lilianchi1020@gmail.com')
+txt3('Mobile', '(765)-776-7780')
 
 
 # In[ ]:
