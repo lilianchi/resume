@@ -20,7 +20,7 @@ st.write('''
 image = Image.open('Professional Photo_2.png')
 st.image(image, width=150)
 
-st.error('''
+st.info('''
 ##### I am graduating in May 2022 and am open to full-time positions! 
 ''')
 
@@ -45,7 +45,7 @@ st.markdown("""
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="#about">Home</a>
+        <a class="nav-link" href="#resume">Home</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#education">Education</a>
