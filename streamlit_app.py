@@ -28,7 +28,7 @@ st.markdown('## About', unsafe_allow_html=True)
 st.info('''
 - Master Degree in Business Analytics and Information Management at Purdue University. 
 - Love digging deep into data and take challenge!
-- Core Competencies: Business Analytics, Data Mining, Machine Learning, Logistics,  A/B Test, Unstructured Data, Data Visualization, Statistics, Operation Management, Written/Oral Communication,
+- Core Competencies: Business Analytics, Data Mining, Unstructured Data, Machine Learning, Database Management, Operation Management, Logistics, Marketing Analytics, A/B Test, Data Visualization, Statistics, Written/Oral Communication,
 High flexibility, responsibility, and accountability.
 ''')
 
