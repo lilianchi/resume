@@ -197,7 +197,7 @@ txt4('Python', 'Cleaning Data in Python', 'https://www.datacamp.com/statement-of
 txt4('Python', 'Exploratory Data Analysis in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/1ef943fa9cfb160032652468c2600cf4e946d74e')
 txt4('Python', 'Python Data Science Toolbox (Part 1): Function, Lambda', 'https://www.datacamp.com/statement-of-accomplishment/course/93b99a20fd3552d7c19591749683cf0776b6b296')
 txt4('Python', 'Python Data Science Toolbox (Part 2): Iterations, List comprehension', 'https://www.datacamp.com/statement-of-accomplishment/course/762cb44720359dd82ebad5a6bf5001b655b900f8')
-txt4('Python', 'Working with Dates and Times in Python', '')
+txt4('Python', 'Working with Dates and Times in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/bb7940fdf06cd9b84e42b11c0900abcc130674d7')
 txt4('SQL', 'Introduction to SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/74189f8967d733767cacc857fc5387e935ad5278')
 txt4('SQL', 'Introduction to Relational Databases in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/9ee409a13f241eceba04ceace80ee768363430cd')
 txt4('SQL', 'Joining Data in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/1e00235eb90442b41281276648b3f21b168a01f7')
