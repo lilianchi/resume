@@ -171,9 +171,9 @@ txt5('R', 'College-Major-Recommender', 'Many high school students run into a dil
      'https://github.com/lilianchi/College-Major-Recommender')
 txt5('SAS EM', 'Credit-Default-Prediction', 'Kaggle Competiton: Predicting credit default by developing a predictive model that utilizes historical payment status and certain demographical information to evaluate the likeliness of credit default.',
      'https://github.com/lilianchi/Credit-Default-Prediction')
-txt5('Python', 'lost or found?','Improved the ad-viewers’ experience by analyzing Craigslist’s business model and process of the platform to find improvements and solutions for this proposal with a demo implementation.',
+txt5('Python', 'lost-or-found?','Improved the ad-viewers’ experience by analyzing Craigslist’s business model and process of the platform to find improvements and solutions for this proposal with a demo implementation.',
      'https://github.com/lilianchi/lost-or-found')
-txt5('SQL', 'Database Alternatives','Helped an interior design company to solve its timesheet calculation and checks tracking problem by building a database on SQL and executing data extraction',
+txt5('SQL', 'Database-Alternatives','Helped an interior design company to solve its timesheet calculation and checks tracking problem by building a database on SQL and executing data extraction',
      'https://github.com/lilianchi/Database-Alternatives')
 txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series forecast and an optimization model on SAS to optimize the problem in case statement',
      'https://github.com/lilianchi/SAS-Optimization-Challenge')
