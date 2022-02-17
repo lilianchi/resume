@@ -219,7 +219,7 @@ txt3('Statistics', '`Minitab`')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
 txt3('Data visualization', '`matplotlib`, `seaborn`, `ggplot2`')
 txt3('Machine Learning', '`scikit-learn`')
-txt3('Deep Learning', '`TensorFlow`')
+txt3('Deep Learning', '`TensorFlow`','`Keras`')
 txt3('Model deployment', '`streamlit`, `R Shiny`')
 
 #####################
