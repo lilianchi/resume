@@ -165,7 +165,7 @@ st.markdown('''
 st.markdown('''
 ## Project
 ''')
-txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Are vaccines are absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed the relationship between vaccination rate data and the unemployment rate data, which could be an index reflecting the prosperity of the economy.',
+txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Are vaccines absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed the relationship between vaccination rate data and the unemployment rate data, which could be an index reflecting the prosperity of the economy.',
      'https://github.com/lilianchi/Does-Vaccination-Help-the-Economy')
 txt5('R', 'College-Major-Recommender', 'Many high school students run into a dilemma upon graduation.They do not know where to begin when trying to select a college major or even had changed their major more than twice afterwards. The tool is to aid them in this decision making process.',
      'https://github.com/lilianchi/College-Major-Recommender')
