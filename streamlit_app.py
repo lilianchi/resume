@@ -26,9 +26,9 @@ st.info('''
 
 st.markdown('## About', unsafe_allow_html=True)
 st.info('''
-- Master Degree in Business Analytics and Information Management at Purdue University. 
-- Love digging deep into data and take challenge!
-- Core Competencies: Business Analytics, Data Mining, Unstructured Data, Machine Learning, Database Management, Operation Management, Logistics, Marketing Analytics, A/B Test, Data Visualization, Statistics, Written/Oral Communication, High flexibility, responsibility, and accountability.
+- Master's Degree in Business Analytics and Information Management at Purdue University. 
+- Love digging deep into data and taking on challenges!
+- Core Competencies: Business Analytics, Data Mining, Unstructured Data, Machine Learning, Database Management, Operation Management, Logistics, Marketing Analytics, A/B Test, Data Visualization, Statistics, Written/Oral Communication, High Flexibility/Responsibility/Accountability.
 ''')
 
 
@@ -125,7 +125,7 @@ st.markdown('''
 
 ''')
 
-txt('**Bachelors of Arts**, Economics', '2013-2017')
+txt('**Bachelor of Arts**, Economics', '2013-2017')
 txt('*National Chengchi University*', 'Taiwan')
 st.markdown('''
 - GPA: `3.97/4.00`
@@ -165,9 +165,9 @@ st.markdown('''
 st.markdown('''
 ## Project
 ''')
-txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Does vaccines are absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed the relationship between vaccination rate data and the unemployment rate data, which could be an index reflecting the prosperity of the economy.',
+txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Are vaccines are absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed the relationship between vaccination rate data and the unemployment rate data, which could be an index reflecting the prosperity of the economy.',
      'https://github.com/lilianchi/Does-Vaccination-Help-the-Economy')
-txt5('R', 'College-Major-Recommender', 'Many high school students run into a dilemma upon graduation.They do not know where to begin when trying to select a college major or even had changed their major more than twice afterwards. The tool is to aid in this decision making process.',
+txt5('R', 'College-Major-Recommender', 'Many high school students run into a dilemma upon graduation.They do not know where to begin when trying to select a college major or even had changed their major more than twice afterwards. The tool is to aid them in this decision making process.',
      'https://github.com/lilianchi/College-Major-Recommender')
 txt5('SAS EM', 'Credit-Default-Prediction', 'Kaggle Competiton: Predicting credit default by developing a predictive model that utilizes historical payment status and certain demographical information to evaluate the likeliness of credit default.',
      'https://github.com/lilianchi/Credit-Default-Prediction')
