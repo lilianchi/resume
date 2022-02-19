@@ -234,7 +234,7 @@ st.markdown('''
 ## Contact
 ''')
 txt3('E-mail', 'lilianchi1020@gmail.com')
-txt3('Mobile', '(765)-776-7780')
+txt3('Mobile', '(765)-775-7780')
 
 
 # In[ ]:
