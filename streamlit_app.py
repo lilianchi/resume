@@ -195,6 +195,7 @@ txt4('Python', 'Introduction to Importing Data in Python', 'https://www.datacamp
 txt4('Python', 'Intermediate Importing Data in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/e1f6e15bf35629f393e8056e4e6cb60f8ae19071')
 txt4('Python', 'Cleaning Data in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/8fc45244a91bafe9d64e9baf25febd1595fc55cc')
 txt4('Python', 'Exploratory Data Analysis in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/1ef943fa9cfb160032652468c2600cf4e946d74e')
+txt4('Python', 'Analyzing Police Activity with panda', 'https://www.datacamp.com/statement-of-accomplishment/course/3f670be7297721fb6cb7cc0d1c148a4e17151ff9')
 txt4('Python', 'Python Data Science Toolbox (Part 1): Function, Lambda', 'https://www.datacamp.com/statement-of-accomplishment/course/93b99a20fd3552d7c19591749683cf0776b6b296')
 txt4('Python', 'Python Data Science Toolbox (Part 2): Iterations, List comprehension', 'https://www.datacamp.com/statement-of-accomplishment/course/762cb44720359dd82ebad5a6bf5001b655b900f8')
 txt4('Python', 'Working with Dates and Times in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/bb7940fdf06cd9b84e42b11c0900abcc130674d7')
