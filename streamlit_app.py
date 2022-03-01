@@ -228,7 +228,7 @@ txt3('Model deployment', '`streamlit`, `R Shiny`')
 st.markdown('''
 ## Social Media
 ''')
-txt2('LinkedIn', 'https://www.linkedin.com/in/li-chi-lilian-chuang-a985b511a/')
+txt2('LinkedIn', 'https://www.linkedin.com/in/lilian-chuang/')
 txt2('GitHub', 'https://github.com/lilianchi')
 
 #####################
