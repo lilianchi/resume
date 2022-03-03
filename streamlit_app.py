@@ -201,6 +201,7 @@ txt4('Python', 'Python Data Science Toolbox (Part 2): Iterations, List comprehen
 txt4('Python', 'Working with Dates and Times in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/bb7940fdf06cd9b84e42b11c0900abcc130674d7')
 txt4('Python', 'Writing Functions in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/be27486f54028dfdf5dbb9e0a7373278b4200022')
 txt4('Python', 'Statistical Thinking in Python (Part 1)', 'https://www.datacamp.com/statement-of-accomplishment/course/a0df4e485a0c170a7a839ecfda9d86e11f623528')
+txt4('Python', 'Statistical Thinking in Python (Part 2)', 'https://www.datacamp.com/statement-of-accomplishment/course/5943ed164946a84d657eec5f1aaf64674a4ab766')
 txt4('SQL', 'Introduction to SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/74189f8967d733767cacc857fc5387e935ad5278')
 txt4('SQL', 'Introduction to Relational Databases in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/9ee409a13f241eceba04ceace80ee768363430cd')
 txt4('SQL', 'Joining Data in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/1e00235eb90442b41281276648b3f21b168a01f7')
