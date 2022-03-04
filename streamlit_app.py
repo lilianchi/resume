@@ -230,7 +230,7 @@ txt3('Deep Learning', '`TensorFlow`,`Keras`')
 txt3('Model deployment', '`streamlit`, `R Shiny`')
 
 #####################
-image1 = Image.open('LinkedIn.png', width=None, use_column_width='auto')
+image1 = Image.open('LinkedIn.png', width=None)
 st.markdown('''
 ## Contact
 ''')
