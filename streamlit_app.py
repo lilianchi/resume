@@ -21,7 +21,7 @@ image = Image.open('Professional Photo_2.png')
 st.image(image, width=150)
 
 st.info('''
-##### I am graduating in May 2022 and am open to full-time positions! 
+##### I am graduating in May 2022 and am open to full-time Business Analyst/ Data Analyst/ Data Scientist positions! 
 ''')
 
 st.markdown('## About', unsafe_allow_html=True)
@@ -138,7 +138,7 @@ st.markdown('''
 ''')
 
 txt('**Consultant Student, Spf.io**','Jan.2022 - Mar.2022')
-txt('Industry Practicum', 'WL, Indiana')
+txt('Industry Practicum, {urdue University', 'WL, Indiana')
 st.markdown('''
 - Implemented experiments in machine translation and conducted cross-validation using technical and human evaluations with `8.9%` improvement in BLEU score.
 ''')
