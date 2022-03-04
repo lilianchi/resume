@@ -141,8 +141,8 @@ txt('**Associate Sales Operations Specialist, Merck**','2020-2021')
 txt('Commercial Operations & Strategy, SFE team', 'Taiwan')
 st.markdown('''
 - Analyzed multiple sales data sources to generate interactive reports for `65+` products. 
-- Conducted sales budget setting, closely tracked and monitored for better `effectiveness`.
-- Administrated and managed system of `territory alignment` and `incentive plan`, to maintain `CRM platform` database for 100 sales representatives from different business units.
+- Conducted sales budget setting, closely tracked and monitored for better `effectiveness to meet company OKR`.
+- Administrated and managed system of `territory alignment` and `incentive plan`, to maintain `CRM platform` database for 100+ sales representatives from different business units.
 ''')
 
 txt('**Care Program Coordinator, Nokia**', '2017-2019')
