@@ -121,6 +121,7 @@ st.markdown('''
 txt('**Purdue University**', 'WL, Indiana')
 txt('*Master of Science*, Business Analytics and Information Management','2021-2022')
 st.markdown('''
+- Awarded a merit-based scholarship
 - GPA: `3.60/4.00`
 - Fall semester 2021 Academic Honors
 ''')
