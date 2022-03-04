@@ -54,7 +54,7 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#project">Project</a>
+        <a class="nav-link" href="#data-analytics-project">Data Analytics Project</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#datacamp-course-certificate">DataCamp Course Certificate</a>
@@ -163,7 +163,7 @@ st.markdown('''
 
 #####################
 st.markdown('''
-## Project
+## Data Analytics Project
 ''')
 txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Are vaccines absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed the relationship between vaccination rate data and the unemployment rate data, which could be an index reflecting the prosperity of the economy.',
      'https://github.com/lilianchi/Does-Vaccination-Help-the-Economy')
