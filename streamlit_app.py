@@ -137,8 +137,8 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Associate Specialist, Sales Operations**','2020-2021')
-txt('Commercial Operations & Strategy, SFE team, *Merck*', 'Taiwan')
+txt('**Associate Sales Operations Specialist, *Merck* **','2020-2021')
+txt('Commercial Operations & Strategy, SFE team', 'Taiwan')
 st.markdown('''
 - Analyzed multiple sales data sources to generate interactive reports for `65+` products. 
 - Conducted sales budget setting, closely tracked and monitored for better `effectiveness`.
