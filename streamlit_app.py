@@ -145,16 +145,16 @@ st.markdown('''
 - Administrated and managed system of `territory alignment` and `incentive plan`, to maintain `CRM platform` database for 100 sales representatives from different business units.
 ''')
 
-txt('**Care Program Coordinator**', '2017-2019')
-txt('Global Service, Chunghwa Mobile Account, *Nokia*', 'Taiwan')
+txt('**Care Program Coordinator, Nokia**', '2017-2019')
+txt('Global Service, Chunghwa Mobile Account', 'Taiwan')
 st.markdown('''
 - Executed a two-year `Technical Service Agreement` for 3G and LTE products, involving quarterly payment calculations, service quality, emergency reports and care service APP operations.
 - Analyzed and forecasted the replacement rate of 3G/ LTE installation bases, including `8 teams` and `80+` type of products.
 - Collaborated with third-party partners (HP, Oracle, and EMC) to ensure completeness of technical warranties; ranked in `top 5%` for care program internal audits in the Greater China region.
 ''')
 
-txt('**Intern, Administrative Assistant**', '2016-2017')
-txt('Small and Mid-market Solutions and Partners, *Microsoft*', 'Taiwan')
+txt('**Administrative Assistant Intern, Microsoft**', '2016-2017')
+txt('Small and Mid-market Solutions and Partners', 'Taiwan')
 st.markdown('''
 - Led `60` technical and sales trainings with `367 hrs`. in total, with an average satisfaction rating of `8.47/9.00`.
 - Managed Partner@MS `APP` and `website` through Asia Pacific Region.
