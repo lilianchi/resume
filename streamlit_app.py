@@ -233,7 +233,7 @@ txt3('Model deployment', '`streamlit`, `R Shiny`')
 st.markdown('''
 ## Contact
 ''')
-txt2('LinkedIn', 'https://www.linkedin.com/in/lilian-chuang/')
+txt2('st.image('LinkedIn.png')', 'https://www.linkedin.com/in/lilian-chuang/')
 txt2('GitHub', 'https://github.com/lilianchi')
 txt2('Resume', 'https://reurl.cc/9OaVeX')
 txt2('E-mail', 'lilianchi1020@gmail.com')
