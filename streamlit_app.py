@@ -60,9 +60,6 @@ st.markdown("""
         <a class="nav-link" href="#datacamp-course-certificate">DataCamp Course Certificate</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#social-media">Social Media</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="#contact">Contact</a>
       </li>
     </ul>
@@ -234,17 +231,12 @@ txt3('Model deployment', '`streamlit`, `R Shiny`')
 
 #####################
 st.markdown('''
-## Social Media
+## Contact
 ''')
 txt2('LinkedIn', 'https://www.linkedin.com/in/lilian-chuang/')
 txt2('GitHub', 'https://github.com/lilianchi')
-
-#####################
-st.markdown('''
-## Contact
-''')
-txt3('E-mail', 'lilianchi1020@gmail.com')
-txt3('Mobile', '(765)-775-7780')
+txt2('E-mail', 'lilianchi1020@gmail.com')
+txt2('Mobile', '(765)-775-7780')
 
 
 # In[ ]:
