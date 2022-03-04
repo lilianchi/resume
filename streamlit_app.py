@@ -234,7 +234,7 @@ st.markdown('''
 ## Contact
 ''')
 image1 = Image.open('LinkedIn.png')
-txt2(st.image(image1), 'https://www.linkedin.com/in/lilian-chuang/')
+txt2(st.image(image1, use_column_width='auto'), 'https://www.linkedin.com/in/lilian-chuang/')
 txt2('GitHub', 'https://github.com/lilianchi')
 txt2('Resume', 'https://reurl.cc/9OaVeX')
 txt2('E-mail', 'lilianchi1020@gmail.com')
