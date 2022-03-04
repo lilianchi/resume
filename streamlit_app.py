@@ -118,14 +118,14 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Purdue University**', 'United States')
+txt('**Purdue University**', 'WL, Indiana')
 txt('*Master of Science*, Business Analytics and Information Management','2021-2022')
 st.markdown('''
 - GPA: `3.60/4.00`
 - Fall semester 2021 Academic Honors
 ''')
 
-txt('**National Chengchi University**', 'Taiwan')
+txt('**National Chengchi University**', 'Taipei, Taiwan')
 txt('*Bachelor of Arts*, Economics', '2013-2017')
 st.markdown('''
 - GPA: `3.97/4.00`
@@ -135,6 +135,11 @@ st.markdown('''
 #####################
 st.markdown('''
 ## Work Experience
+''')
+
+txt('**Consultant Student, Spf,io**','Jan.2022 - Mar.2022')
+st.markdown('''
+- Implemented experiments in machine translation and conducted cross-validation using technical and human evaluations with `8.9%` improvement in BLEU score.
 ''')
 
 txt('**Associate Sales Operations Specialist, Merck**','2020-2021')
