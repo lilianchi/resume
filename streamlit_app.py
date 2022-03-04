@@ -137,7 +137,8 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Consultant Student, Spf,io**','Jan.2022 - Mar.2022')
+txt('**Consultant Student, Spf.io**','Jan.2022 - Mar.2022')
+txt('Industry Practicum', 'WL, Indiana')
 st.markdown('''
 - Implemented experiments in machine translation and conducted cross-validation using technical and human evaluations with `8.9%` improvement in BLEU score.
 ''')
