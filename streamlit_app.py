@@ -137,7 +137,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Associate Sales Operations Specialist, *Merck* **','2020-2021')
+txt('**Associate Sales Operations Specialist, Merck**','2020-2021')
 txt('Commercial Operations & Strategy, SFE team', 'Taiwan')
 st.markdown('''
 - Analyzed multiple sales data sources to generate interactive reports for `65+` products. 
