@@ -10,7 +10,6 @@ from PIL import Image
 with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
 
-image1 = Image.open('LinkedIn.jpg')
 #####################
 # Header 
 st.write('''
@@ -231,10 +230,11 @@ txt3('Deep Learning', '`TensorFlow`,`Keras`')
 txt3('Model deployment', '`streamlit`, `R Shiny`')
 
 #####################
+image1 = Image.open('LinkedIn.png')
 st.markdown('''
 ## Contact
 ''')
-txt2('st.image(image1)', 'https://www.linkedin.com/in/lilian-chuang/')
+txt2(st.image(image1), 'https://www.linkedin.com/in/lilian-chuang/')
 txt2('GitHub', 'https://github.com/lilianchi')
 txt2('Resume', 'https://reurl.cc/9OaVeX')
 txt2('E-mail', 'lilianchi1020@gmail.com')
