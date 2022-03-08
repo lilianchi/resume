@@ -142,6 +142,12 @@ st.markdown('''
 - Implemented experiments in machine translation and conducted cross-validation using technical and human evaluations with `8.9%` improvement in BLEU score.
 ''')
 
+txt('**Consultant Student, Design Alternatives**','Nov.2021 - Dec.2021')
+txt('Database Course, Purdue University', 'WL, Indiana')
+st.markdown('''
+- Solved timesheet calculation and checks tracking problem by building a database on SQL and executing data extraction.
+''')
+
 txt('**Associate Sales Operations Specialist, Merck**','2020-2021')
 txt('Commercial Operations & Strategy, SFE team', 'Taiwan')
 st.markdown('''
