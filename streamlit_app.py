@@ -71,7 +71,7 @@ st.markdown("""
 #####################
 # Custom function for printing text
 def txt(a, b):
-  col1, col2 = st.columns([4,1])
+  col1, col2 = st.columns([4,2])
   with col1:
     st.markdown(a)
   with col2:
