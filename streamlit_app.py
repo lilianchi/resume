@@ -215,6 +215,7 @@ txt4('Python', 'Writing Functions in Python', 'https://www.datacamp.com/statemen
 txt4('Python', 'Statistical Thinking in Python (Part 1)', 'https://www.datacamp.com/statement-of-accomplishment/course/a0df4e485a0c170a7a839ecfda9d86e11f623528')
 txt4('Python', 'Statistical Thinking in Python (Part 2)', 'https://www.datacamp.com/statement-of-accomplishment/course/5943ed164946a84d657eec5f1aaf64674a4ab766')
 txt4('Python', 'Supervised Learning with scikit-learn', 'https://www.datacamp.com/statement-of-accomplishment/course/c487e379a4c2b23d2210e846f46ba774697b19b4')
+txt4('Python', 'Unsupervised Learning in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/4cd54727f7ed83d4e4724dfc55f56071e9d80ce2')
 txt4('SQL', 'Introduction to SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/74189f8967d733767cacc857fc5387e935ad5278')
 txt4('SQL', 'Introduction to Relational Databases in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/9ee409a13f241eceba04ceace80ee768363430cd')
 txt4('SQL', 'Joining Data in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/1e00235eb90442b41281276648b3f21b168a01f7')
