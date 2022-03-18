@@ -62,6 +62,9 @@ st.markdown("""
         <a class="nav-link" href="#datacamp-course-certificate">DataCamp Course Certificate</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="#skills">Skills</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="#contact">Contact</a>
       </li>
     </ul>
