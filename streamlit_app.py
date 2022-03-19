@@ -224,6 +224,7 @@ txt4('SQL', 'Introduction to SQL', 'https://www.datacamp.com/statement-of-accomp
 txt4('SQL', 'Introduction to Relational Databases in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/9ee409a13f241eceba04ceace80ee768363430cd')
 txt4('SQL', 'Joining Data in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/1e00235eb90442b41281276648b3f21b168a01f7')
 txt4('Tableau', 'Introduction to Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/4e4c9df2364aefa9cc45dd754c1a15214aa6376c')
+txt4('Tableau', 'Analyzing Data in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/1ae628e7790653cb0c3b4acc96569807e45fde27')
 txt4('R', 'Introduction to R', 'https://www.datacamp.com/statement-of-accomplishment/course/433731c66ae1b4bbeb40f3f89728156caf638850')
 txt4('R', 'Data Manipulation with dplyr', 'https://www.datacamp.com/statement-of-accomplishment/course/bbc9f6ada20e2e2776fcad99d5b4532351272bdb')
 txt4('R', 'Introduction to the Tidyverse', 'https://www.datacamp.com/statement-of-accomplishment/course/46bd5c2d51131d94cf986b7c898986245f5c720d')
