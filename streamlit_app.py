@@ -59,7 +59,7 @@ st.markdown("""
         <a class="nav-link" href="#data-analytics-project">Data Analytics Project</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#datacamp-course-certificate">DataCamp Course Certificate</a>
+        <a class="nav-link" href="#certificate">Certificate</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#skills">Skills</a>
@@ -197,8 +197,10 @@ txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series forecast and an
 
 #####################
 st.markdown('''
-## DataCamp Course Certificate
+## Certificate
 ''')
+txt4('Oracle Database 12c SQL Certified Associate 1Z0-071', 'https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
+
 txt4('Python', 'Introduction to Python', 'https://www.datacamp.com/statement-of-accomplishment/course/433731c66ae1b4bbeb40f3f89728156caf638850')
 txt4('Python', 'Introduction to Data Science in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/73bce8b85d68b36fe58943ad713efee0c29a829d')
 txt4('Python', 'Intermediate Python', 'https://www.datacamp.com/statement-of-accomplishment/course/d78c4a9412a86d208de64a3c531ea057b8a397cd')
