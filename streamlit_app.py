@@ -147,10 +147,12 @@ st.markdown('''
 - Conducted cross-validation using Python libraries and human evaluations with 8.9% improvement in BLEU score.
 ''')
 
-txt('**Consultant Student, Design Alternatives**','Nov.2021 - Dec.2021')
+txt('**Data Analyst, Design Alternatives**','Nov.2021 - Dec.2021')
 txt('Database Course, Purdue University', 'WL, Indiana')
 st.markdown('''
-- Solved timesheet calculation and checks tracking problem by building a database on SQL and executing data extraction.
+- Designed, implemented, and optimized database management systems (MySQL) in accordance with customer’s needs.
+- Helped production scheduling by executing data extraction, improving efficiency and accuracy.
+- Automated project progress monitoring and checks tracking, reducing labor time by 30%.
 ''')
 
 txt('**Associate Sales Operations Specialist, Merck**','2020-2021')
