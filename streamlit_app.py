@@ -140,7 +140,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Data Analyst Student, Spf.io**','Jan.2022 - Mar.2022')
+txt('**Data Analyst Student, Spf.io**','Jan.2022 - Apr.2022')
 txt('Industry Practicum, Purdue University', 'WL, Indiana')
 st.markdown('''
 - Winner in poster competition at 2022 INFORMS Business Analytics Conference
