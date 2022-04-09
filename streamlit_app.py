@@ -140,14 +140,16 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Consultant Student, Spf.io**','Jan.2022 - Mar.2022')
+txt('**Data Analyst Student, Spf.io**','Jan.2022 - Mar.2022')
 txt('Industry Practicum, Purdue University', 'WL, Indiana')
 st.markdown('''
-- Implemented machine translation experiments in Google Cloud, Microsoft Azure platform with data sampling and pre-processing from given datasets.
-- Conducted cross-validation using Python libraries and human evaluations with 8.9% improvement in BLEU score.
+- Winner in poster competition at 2022 INFORMS Business Analytics Conference
+- Implemented adaptive machine translation (AutoML) experiments in Google Cloud, Microsoft Azure platform with data sampling and pre-processing, resulting in 8.9% improvement in BLEU score (translation metric)
+- Conducted model validation using Python NLTK libraries and a survey to demonstrate statistically significant differences in the models with Friedman Test
+- Reduced editing cost by 90% and time 98% by extending massive corpora to meet different domain needs
 ''')
 
-txt('**Data Analyst, Design Alternatives**','Nov.2021 - Dec.2021')
+txt('**Data Analyst Intern, Design Alternatives**','Nov.2021 - Dec.2021')
 txt('Database Course, Purdue University', 'WL, Indiana')
 st.markdown('''
 - Designed, implemented, and optimized database management systems (MySQL) in accordance with customer’s needs.
