@@ -144,7 +144,7 @@ txt('**Data Analyst Student, Spf.io**','Jan.2022 - Apr.2022')
 txt('Industry Practicum, Purdue University', 'WL, Indiana')
 st.markdown('''
 - `Winner` in poster competition at 2022 INFORMS Business Analytics Conference
-- Implemented adaptive machine translation (`AutoML`) experiments in `Google Cloud`, `Microsoft Azure` platform with data sampling and pre-processing, resulting in `8.9% improvement in BLEU score (translation metric)
+- Implemented adaptive machine translation (`AutoML`) experiments in `Google Cloud`, `Microsoft Azure` platform with data sampling and pre-processing, resulting in `8.9%` improvement in BLEU score (translation metric)
 - Conducted model validation using `Python NLTK` libraries and a survey to demonstrate statistically significant differences in the models with Friedman Test
 - Reduced editing cost by `90%` and time by `98%` by extending massive corpora to meet different domain needs
 ''')
@@ -203,7 +203,7 @@ txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series `random walk` f
 st.markdown('''
 ## Certificate
 ''')
-txt4('Oracle Database 12c SQL Certified Associate 1Z0-071', '','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
+txt4('SQL', 'Oracle Database 12c SQL Certified Associate 1Z0-071', '','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
 
 txt4('Python', 'Introduction to Python', 'https://www.datacamp.com/statement-of-accomplishment/course/433731c66ae1b4bbeb40f3f89728156caf638850')
 txt4('Python', 'Introduction to Data Science in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/73bce8b85d68b36fe58943ad713efee0c29a829d')
