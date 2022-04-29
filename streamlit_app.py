@@ -27,7 +27,7 @@ st.info('''
 st.markdown('## About', unsafe_allow_html=True)
 st.info('''
 - Master's Degree in Business Analytics and Information Management at Purdue University.
-- Analytics professional with 3 year working experiences in pharmaceutical and high-tech industry.
+- Analytics professional with 3-year work experiences in pharmaceutical and high-tech industry.
 - Love digging deep into data and taking on challenges!
 - With cross-function collaboration mindset and creative/ critical thinking.
 - Core Competencies: Business Analytics, Statistics, Data Mining, Machine Learning, NLP, Database Management, Operation Management, Logistics, Marketing Analytics, A/B Test, Data Visualization, Written/Oral Communication, High Flexibility/Responsibility/Accountability.
@@ -143,18 +143,18 @@ st.markdown('''
 txt('**Data Analyst Student, Spf.io**','Jan.2022 - Apr.2022')
 txt('Industry Practicum, Purdue University', 'WL, Indiana')
 st.markdown('''
-- Winner in poster competition at 2022 INFORMS Business Analytics Conference
-- Implemented adaptive machine translation (AutoML) experiments in Google Cloud, Microsoft Azure platform with data sampling and pre-processing, resulting in 8.9% improvement in BLEU score (translation metric)
-- Conducted model validation using Python NLTK libraries and a survey to demonstrate statistically significant differences in the models with Friedman Test
-- Reduced editing cost by 90% and time 98% by extending massive corpora to meet different domain needs
+- `Winner` in poster competition at 2022 INFORMS Business Analytics Conference
+- Implemented adaptive machine translation (`AutoML`) experiments in `Google Cloud`, `Microsoft Azure` platform with data sampling and pre-processing, resulting in `8.9% improvement in BLEU score (translation metric)
+- Conducted model validation using `Python NLTK` libraries and a survey to demonstrate statistically significant differences in the models with Friedman Test
+- Reduced editing cost by `90%` and time by `98%` by extending massive corpora to meet different domain needs
 ''')
 
 txt('**Data Analyst Intern, Design Alternatives**','Nov.2021 - Dec.2021')
 txt('Database Course, Purdue University', 'WL, Indiana')
 st.markdown('''
-- Designed, implemented, and optimized database management systems (MySQL) in accordance with customer’s needs.
+- Designed, implemented, and optimized database management systems (`MySQL`) in accordance with customer’s needs.
 - Helped production scheduling by executing data extraction, improving efficiency and accuracy.
-- Automated project progress monitoring and checks tracking, reducing labor time by 30%.
+- Automated project progress monitoring and checks tracking, reducing labor time by `30%`.
 ''')
 
 txt('**Associate Sales Operations Specialist, Merck**','2020-2021')
@@ -162,7 +162,7 @@ txt('Commercial Operations & Strategy, SFE team', 'Taiwan')
 st.markdown('''
 - Analyzed multiple sales data sources to generate interactive reports for `65+` products; built dashboard for drawing valuable business insights.
 - Conducted sales budget setting, closely tracked and monitored for better `effectiveness to meet company OKR`.
-- Administrated and managed system of `territory alignment` and `incentive plan`, to maintain `CRM platform` database for `100+` sales representatives from `5` business units.
+- Administrated and managed system of `territory alignment` and `incentive plan`, to maintain `salesforce` database for `100+` sales representatives from `5` business units.
 ''')
 
 txt('**Care Program Coordinator, Nokia**', '2017-2019')
@@ -195,7 +195,7 @@ txt5('Python', 'lost-or-found?','Improved the ad-viewers’ experience by analyz
      'https://github.com/lilianchi/lost-or-found')
 txt5('SQL', 'Database-Alternatives','Helped an interior design company to solve its timesheet calculation and checks tracking problem by building a database on SQL and executing data extraction',
      'https://github.com/lilianchi/Database-Alternatives')
-txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series forecast and an optimization model on SAS to optimize the problem in case statement',
+txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series `random walk` forecast and an optimization model on SAS to optimize the resource allocation problem',
      'https://github.com/lilianchi/SAS-Optimization-Challenge')
 
 
@@ -233,6 +233,7 @@ txt4('SQL', 'Joining Data in SQL', 'https://www.datacamp.com/statement-of-accomp
 txt4('Tableau', 'Introduction to Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/4e4c9df2364aefa9cc45dd754c1a15214aa6376c')
 txt4('Tableau', 'Analyzing Data in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/1ae628e7790653cb0c3b4acc96569807e45fde27')
 txt4('Tableau', 'Creating Dashboards in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/151699d1c45a8602544e2d5716b61421b0d46564')
+txt4('Tableau', 'Case Study_Analyzing Customer Churn in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/e475db386ec42fd5fc9b1264bf08aa08e1a4a6db')
 txt4('R', 'Introduction to R', 'https://www.datacamp.com/statement-of-accomplishment/course/433731c66ae1b4bbeb40f3f89728156caf638850')
 txt4('R', 'Data Manipulation with dplyr', 'https://www.datacamp.com/statement-of-accomplishment/course/bbc9f6ada20e2e2776fcad99d5b4532351272bdb')
 txt4('R', 'Introduction to the Tidyverse', 'https://www.datacamp.com/statement-of-accomplishment/course/46bd5c2d51131d94cf986b7c898986245f5c720d')
@@ -240,6 +241,7 @@ txt4('R', 'Introduction to Writing Functions in R', 'https://www.datacamp.com/st
 txt4('R', 'String Manipulation with stringr in R', 'https://www.datacamp.com/statement-of-accomplishment/course/83be478ff803b61e4dadf26f709d8290b2596f69')
 txt4('R', 'Working with Dates and Times in R', 'https://www.datacamp.com/statement-of-accomplishment/course/93db3a10de7a9f453c07d979924b57aed86c51e5')
 txt4('R', 'Writing Efficient R Code', 'https://www.datacamp.com/statement-of-accomplishment/course/db17dc8e0efe5ad47e940c510f67942e9e6510c8')
+txt4('Power BI', 'Introduction to Power BI', 'https://www.datacamp.com/statement-of-accomplishment/course/ff181e5e94c279c80ff353ca2578d749d7001319')
 
 #####################
 st.markdown('''
