@@ -157,7 +157,7 @@ st.markdown('''
 - Automated project progress monitoring and checks tracking, reducing labor time by `30%`.
 ''')
 
-txt('**Associate Sales Operations Specialist, Merck**','2020-2021')
+txt('**Associate Sales Operations Specialist, Merck**','Aug.2020 - May.2021')
 txt('Commercial Operations & Strategy, SFE team', 'Taiwan')
 st.markdown('''
 - Analyzed multiple sales data sources to generate interactive reports for `65+` products; built dashboard for drawing valuable business insights.
@@ -165,7 +165,7 @@ st.markdown('''
 - Administrated and managed system of `territory alignment` and `incentive plan`, to maintain `salesforce` database for `100+` sales representatives from `5` business units.
 ''')
 
-txt('**Care Program Coordinator, Nokia**', '2017-2019')
+txt('**Care Program Coordinator, Nokia**', 'Jul.2017 - Jul.2019')
 txt('Global Service, Chunghwa Mobile Account', 'Taiwan')
 st.markdown('''
 - Executed a two-year `Technical Service Agreement` for 3G and LTE products, involving quarterly payment calculations, service quality, emergency reports and care service APP operations.
@@ -173,7 +173,7 @@ st.markdown('''
 - Collaborated with third-party partners (HP, Oracle, and EMC) to ensure completeness of technical warranties; ranked in `top 5%` for care program internal audits in the Greater China region.
 ''')
 
-txt('**Administrative Assistant Intern, Microsoft**', '2016-2017')
+txt('**Administrative Assistant Intern, Microsoft**', 'Jul.2016 - Jun.2017')
 txt('Small and Mid-market Solutions and Partners', 'Taiwan')
 st.markdown('''
 - Led `60` technical and sales trainings with `367 hrs`. in total, with an average satisfaction rating of `8.47/9.00`.
