@@ -158,15 +158,16 @@ st.markdown('''
 ''')
 
 txt('**Associate Sales Operations Specialist, Merck**','Aug.2020 - May.2021')
-txt('Commercial Operations & Strategy, SFE team', 'Taiwan')
+txt('Commercial Operations & Strategy, SFE team', 'Taipei, Taiwan')
 st.markdown('''
-- Analyzed multiple sales data sources to generate interactive reports for `65+` products; built dashboard for drawing valuable business insights.
-- Conducted sales budget setting, closely tracked and monitored for better `effectiveness to meet company OKR`.
+- Built `dashboards` to visualize analytics for sales budget planning and monitoring, supporting decision-making processe with business intelligence solutions.
+- Collected and cleaned `historical` and `real-time` data to forecast future demand, optimizing manufacturing plans
+- Administered `Salesforce` CRM platform to organize events and maintain customer relationships.
 - Administrated and managed system of `territory alignment` and `incentive plan`, to maintain `salesforce` database for `100+` sales representatives from `5` business units.
 ''')
 
 txt('**Care Program Coordinator, Nokia**', 'Jul.2017 - Jul.2019')
-txt('Global Service, Chunghwa Mobile Account', 'Taiwan')
+txt('Global Service, Chunghwa Mobile Account', 'Taipei, Taiwan')
 st.markdown('''
 - Executed a two-year `Technical Service Agreement` for 3G and LTE products, involving quarterly payment calculations, service quality, emergency reports and care service APP operations.
 - Analyzed and forecasted the replacement rate of 3G/ LTE installation bases, including `8 teams` and `80+` type of products.
@@ -174,11 +175,11 @@ st.markdown('''
 ''')
 
 txt('**Administrative Assistant Intern, Microsoft**', 'Jul.2016 - Jun.2017')
-txt('Small and Mid-market Solutions and Partners', 'Taiwan')
+txt('Small and Mid-market Solutions and Partners', 'Taipei, Taiwan')
 st.markdown('''
 - Led `60` technical and sales trainings with `367 hrs`. in total, with an average satisfaction rating of `8.47/9.00`.
-- Managed Partner@MS `APP` and `website` through Asia Pacific Region.
-- Organized a cloud solution training program (the Azure Hero Program), helping `204` employees and `24` external partners to gain professional certifications.
+- Designed and maintained Partner@MS `app` with cross-functional teams and refined user experience.
+- Organized an `Azure` solution training program, teaching `204` employees and `24` external partners to gain certificates.
 ''')
 
 #####################
