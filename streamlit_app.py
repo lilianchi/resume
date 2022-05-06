@@ -169,9 +169,9 @@ st.markdown('''
 txt('**Care Program Coordinator, Nokia**', 'Jul.2017 - Jul.2019')
 txt('Global Service, Chunghwa Mobile Account', 'Taipei, Taiwan')
 st.markdown('''
-- Executed a two-year `Technical Service Agreement` for 3G and LTE products, involving quarterly payment calculations, service quality, emergency reports and care service APP operations.
-- Analyzed and forecasted the replacement rate of 3G/ LTE installation bases, including `8 teams` and `80+` type of products.
-- Collaborated with third-party partners (HP, Oracle, and EMC) to ensure completeness of technical warranties; ranked in `top 5%` for care program internal audits in the Greater China region.
+- Drafted and maintained app to increase fulfillment rate and minimize service impact.
+- Analyzed and forecasted the replacement rate of 3G/ LTE installation bases to modify budget planning and reduce system downtime, including `8 teams` and `80+` type of products; ranked in top `5%` for care program (maintenance) internal audits in the Greater China region.
+- Collaborated with vendors (`HP` and `Oracle`) to assess necessities of warranty contracts to reduce risk for business.
 ''')
 
 txt('**Administrative Assistant Intern, Microsoft**', 'Jul.2016 - Jun.2017')
