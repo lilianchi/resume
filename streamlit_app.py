@@ -62,7 +62,7 @@ st.markdown("""
         <a class="nav-link" href="#certificate">Certificate</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#skills">Skills</a>
+        <a class="nav-link" href="#skill">Skill</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#contact">Contact</a>
@@ -253,7 +253,7 @@ txt4('Power BI', 'Introduction to Power BI', 'https://www.datacamp.com/statement
 
 #####################
 st.markdown('''
-## Skills
+## Skill
 ''')
 txt3('Programming', '`Python`, `R`, `SQL`, `SAS`, `SAS EM`')
 txt3('Statistics', '`Minitab`')
