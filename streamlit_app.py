@@ -238,6 +238,7 @@ txt4('Python', 'Cluster Analysis in Python', 'https://www.datacamp.com/statement
 txt4('SQL', 'Introduction to SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/74189f8967d733767cacc857fc5387e935ad5278')
 txt4('SQL', 'Introduction to Relational Databases in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/9ee409a13f241eceba04ceace80ee768363430cd')
 txt4('SQL', 'Joining Data in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/1e00235eb90442b41281276648b3f21b168a01f7')
+txt4('SQL', 'Intermediate SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/938298af9bb7561fbad10ffcaf14cef7df0256ea?raw=1')
 txt4('Tableau', 'Introduction to Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/4e4c9df2364aefa9cc45dd754c1a15214aa6376c')
 txt4('Tableau', 'Analyzing Data in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/1ae628e7790653cb0c3b4acc96569807e45fde27')
 txt4('Tableau', 'Creating Dashboards in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/151699d1c45a8602544e2d5716b61421b0d46564')
@@ -250,6 +251,7 @@ txt4('R', 'String Manipulation with stringr in R', 'https://www.datacamp.com/sta
 txt4('R', 'Working with Dates and Times in R', 'https://www.datacamp.com/statement-of-accomplishment/course/93db3a10de7a9f453c07d979924b57aed86c51e5')
 txt4('R', 'Writing Efficient R Code', 'https://www.datacamp.com/statement-of-accomplishment/course/db17dc8e0efe5ad47e940c510f67942e9e6510c8')
 txt4('Power BI', 'Introduction to Power BI', 'https://www.datacamp.com/statement-of-accomplishment/course/ff181e5e94c279c80ff353ca2578d749d7001319')
+txt4('Power BI', 'Exploratory Data Analysis in Power BI', 'https://www.datacamp.com/statement-of-accomplishment/course/361b19db2cd94d4640eac0265b351ed6645b1b0e')
 
 #####################
 st.markdown('''
