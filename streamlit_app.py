@@ -204,9 +204,10 @@ txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series `random walk` f
 st.markdown('''
 ## Certificate
 ''')
-txt4('SQL', 'Oracle Database 12c SQL Certified Associate 1Z0-071','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
-txt4('Python', 'Data Analyst Track', 'https://www.datacamp.com/statement-of-accomplishment/track/feb13a3355b8ad31a25dbd7bb28e11dfd8ad34f1')
-txt4('Python', 'Data Scientist Track', 'https://www.datacamp.com/statement-of-accomplishment/track/06dc785b91f1180e54aaeed570bbd261319b2096')
+txt4('Oracle SQL', 'Oracle Database 12c SQL Certified Associate 1Z0-071','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
+txt4('Python Track', 'Data Analyst Track', 'https://www.datacamp.com/statement-of-accomplishment/track/feb13a3355b8ad31a25dbd7bb28e11dfd8ad34f1')
+txt4('Python Track', 'Data Scientist Track', 'https://www.datacamp.com/statement-of-accomplishment/track/06dc785b91f1180e54aaeed570bbd261319b2096')
+txt4('Tableau Track', 'Tableau Fundamentals', 'https://www.datacamp.com/statement-of-accomplishment/track/df95c91be61925f8e31f48cb033af91e699cafee')
 
 txt4('Python', 'Introduction to Python', 'https://www.datacamp.com/statement-of-accomplishment/course/433731c66ae1b4bbeb40f3f89728156caf638850')
 txt4('Python', 'Introduction to Data Science in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/73bce8b85d68b36fe58943ad713efee0c29a829d')
