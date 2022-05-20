@@ -59,10 +59,10 @@ st.markdown("""
         <a class="nav-link" href="#data-analytics-project">Data Analytics Project</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#certificate">Certificate</a>
+        <a class="nav-link" href="#skill">Skill</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#skill">Skill</a>
+        <a class="nav-link" href="#certificate">Certificate</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#contact">Contact</a>
@@ -199,6 +199,17 @@ txt5('SQL', 'Database-Alternatives','Helped an interior design company to solve 
 txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series `random walk` forecast and an optimization model on SAS to optimize the resource allocation problem with minimized cost by `14.8%`',
      'https://github.com/lilianchi/SAS-Optimization-Challenge')
 
+#####################
+st.markdown('''
+## Skill
+''')
+txt3('Programming', '`Python`, `R`, `SQL`, `SAS`, `SAS EM`')
+txt3('Statistics', '`Minitab`')
+txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
+txt3('Data visualization', '`Tableau`, `Power BI`, `matplotlib`, `seaborn`, `ggplot2`')
+txt3('Machine Learning', '`scikit-learn`')
+txt3('Deep Learning', '`TensorFlow`,`Keras`')
+txt3('Model deployment', '`streamlit`, `R Shiny`')
 
 #####################
 st.markdown('''
@@ -255,17 +266,6 @@ txt4('R', 'Writing Efficient R Code', 'https://www.datacamp.com/statement-of-acc
 txt4('Power BI', 'Introduction to Power BI', 'https://www.datacamp.com/statement-of-accomplishment/course/ff181e5e94c279c80ff353ca2578d749d7001319')
 txt4('Power BI', 'Exploratory Data Analysis in Power BI', 'https://www.datacamp.com/statement-of-accomplishment/course/361b19db2cd94d4640eac0265b351ed6645b1b0e')
 
-#####################
-st.markdown('''
-## Skill
-''')
-txt3('Programming', '`Python`, `R`, `SQL`, `SAS`, `SAS EM`')
-txt3('Statistics', '`Minitab`')
-txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
-txt3('Data visualization', '`Tableau`, `Power BI`, `matplotlib`, `seaborn`, `ggplot2`')
-txt3('Machine Learning', '`scikit-learn`')
-txt3('Deep Learning', '`TensorFlow`,`Keras`')
-txt3('Model deployment', '`streamlit`, `R Shiny`')
 
 #####################
 st.markdown('''
