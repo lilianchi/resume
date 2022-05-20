@@ -243,6 +243,7 @@ txt4('Tableau', 'Introduction to Tableau', 'https://www.datacamp.com/statement-o
 txt4('Tableau', 'Analyzing Data in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/1ae628e7790653cb0c3b4acc96569807e45fde27')
 txt4('Tableau', 'Creating Dashboards in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/151699d1c45a8602544e2d5716b61421b0d46564')
 txt4('Tableau', 'Case Study_Analyzing Customer Churn in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/e475db386ec42fd5fc9b1264bf08aa08e1a4a6db')
+txt4('Tableau', 'Connecting Data in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/6a07e131e77555fcdd4a38f0ba06f8d44dfc3d36')
 txt4('R', 'Introduction to R', 'https://www.datacamp.com/statement-of-accomplishment/course/433731c66ae1b4bbeb40f3f89728156caf638850')
 txt4('R', 'Data Manipulation with dplyr', 'https://www.datacamp.com/statement-of-accomplishment/course/bbc9f6ada20e2e2776fcad99d5b4532351272bdb')
 txt4('R', 'Introduction to the Tidyverse', 'https://www.datacamp.com/statement-of-accomplishment/course/46bd5c2d51131d94cf986b7c898986245f5c720d')
