@@ -216,8 +216,10 @@ st.markdown('''
 ## Certificate
 ''')
 txt4('Oracle SQL', 'Oracle Database 12c SQL Certified Associate 1Z0-071','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
+txt4('Python Track', 'Python Fundamentals Track', 'https://www.datacamp.com/statement-of-accomplishment/track/4a3acb93fce85aabfd09390230585a217c9932dc')
 txt4('Python Track', 'Data Analyst Track', 'https://www.datacamp.com/statement-of-accomplishment/track/feb13a3355b8ad31a25dbd7bb28e11dfd8ad34f1')
 txt4('Python Track', 'Data Scientist Track', 'https://www.datacamp.com/statement-of-accomplishment/track/06dc785b91f1180e54aaeed570bbd261319b2096')
+txt4('SQL Track', 'SQL Fundamentals Track', 'https://www.datacamp.com/statement-of-accomplishment/track/92043e9ef4e29d1b53372524eba2a3bd20fbc5a3')
 txt4('Tableau Track', 'Tableau Fundamentals', 'https://www.datacamp.com/statement-of-accomplishment/track/df95c91be61925f8e31f48cb033af91e699cafee')
 
 txt4('Python', 'Introduction to Python', 'https://www.datacamp.com/statement-of-accomplishment/course/433731c66ae1b4bbeb40f3f89728156caf638850')
@@ -251,6 +253,8 @@ txt4('SQL', 'Introduction to SQL', 'https://www.datacamp.com/statement-of-accomp
 txt4('SQL', 'Introduction to Relational Databases in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/9ee409a13f241eceba04ceace80ee768363430cd')
 txt4('SQL', 'Joining Data in SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/1e00235eb90442b41281276648b3f21b168a01f7')
 txt4('SQL', 'Intermediate SQL', 'https://www.datacamp.com/statement-of-accomplishment/course/938298af9bb7561fbad10ffcaf14cef7df0256ea?raw=1')
+txt4('SQL', 'PostgreSQL Summary Stats and Window Functions', 'https://www.datacamp.com/statement-of-accomplishment/course/87d4bb80c7787dd6b8887127e866630dfba3ac16')
+txt4('SQL', 'Functions for Manipulating Data in PostgreSQL', 'https://www.datacamp.com/statement-of-accomplishment/course/fdaf8ab34a4a6e5c34152e7b7f0675056ed60ce0')
 txt4('Tableau', 'Introduction to Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/4e4c9df2364aefa9cc45dd754c1a15214aa6376c')
 txt4('Tableau', 'Analyzing Data in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/1ae628e7790653cb0c3b4acc96569807e45fde27')
 txt4('Tableau', 'Creating Dashboards in Tableau', 'https://www.datacamp.com/statement-of-accomplishment/course/151699d1c45a8602544e2d5716b61421b0d46564')
