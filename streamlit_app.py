@@ -217,6 +217,7 @@ st.markdown('''
 ''')
 txt4('Oracle SQL', 'Oracle Database 12c SQL Certified Associate 1Z0-071','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
 txt4('Python Track', 'Python Fundamentals Track', 'https://www.datacamp.com/statement-of-accomplishment/track/4a3acb93fce85aabfd09390230585a217c9932dc')
+txt4('Python Track', 'Data Manipulation with Python Track', 'https://www.datacamp.com/statement-of-accomplishment/track/ecc0df4491f3f40f4e2b5e6a9396660b1f0dd179')
 txt4('Python Track', 'Data Analyst Track', 'https://www.datacamp.com/statement-of-accomplishment/track/feb13a3355b8ad31a25dbd7bb28e11dfd8ad34f1')
 txt4('Python Track', 'Data Scientist Track', 'https://www.datacamp.com/statement-of-accomplishment/track/06dc785b91f1180e54aaeed570bbd261319b2096')
 txt4('SQL Track', 'SQL Fundamentals Track', 'https://www.datacamp.com/statement-of-accomplishment/track/92043e9ef4e29d1b53372524eba2a3bd20fbc5a3')
