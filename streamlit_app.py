@@ -208,20 +208,20 @@ txt3('Statistics', '`Minitab`')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
 txt3('Data visualization', '`Power BI`, `Tableau`, `matplotlib`, `seaborn`, `ggplot2`')
 txt3('Machine Learning','`scipy`, `scikit-learn`')
-txt3('Deep Learning', '`TensorFlow`,`Keras`')
+txt3('Deep Learning', '`tensorFlow`,`Keras`')
 txt3('Model deployment', '`streamlit`, `R Shiny`')
 
 #####################
 st.markdown('''
 ## Certificate
 ''')
-txt5('Oracle SQL', 'Oracle Database 12c SQL Certified Associate 1Z0-071','DDL, DML, Aggregration, Join, Condition expressions, Subquery, Datetime','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
+txt5('Oracle SQL', 'Oracle Database 12c SQL Certified Associate 1Z0-071','DDL, DML, Aggregration, Join, Condition expressions, Subquery, Datetime, Sequences, Synonyms, Indexes, Views, User access','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
 txt5('Python', 'Python Fundamentals Track', 'Advanced level in assessment','https://www.datacamp.com/statement-of-accomplishment/track/4a3acb93fce85aabfd09390230585a217c9932dc')
 txt5('Python', 'Data Manipulation with Python Track', 'Data manipulation, Join data, Database in Python','https://www.datacamp.com/statement-of-accomplishment/track/ecc0df4491f3f40f4e2b5e6a9396660b1f0dd179')
 txt5('Python', 'Data Analyst Track', 'Visualization with matplotlib/seaborn, Importing/ Cleaning data, EDA, Categorical data', 'https://www.datacamp.com/statement-of-accomplishment/track/feb13a3355b8ad31a25dbd7bb28e11dfd8ad34f1')
 txt5('Python', 'Data Scientist Track', 'Functions, Date and time, Satistical Thinking, Supervised-learning, Unsupervised-learning, Tree-based models, Cluster Analysis','https://www.datacamp.com/statement-of-accomplishment/track/06dc785b91f1180e54aaeed570bbd261319b2096')
 txt5('SQL', 'SQL Fundamentals Track', 'Join tables, Summary Statistics, Window funcions, Text Analysis','https://www.datacamp.com/statement-of-accomplishment/track/92043e9ef4e29d1b53372524eba2a3bd20fbc5a3')
-txt5('Tableau', 'Tableau Fundamentals','Sheet, Dashboard, Story, EDA, Parameters, Interactive', 'https://www.datacamp.com/statement-of-accomplishment/track/df95c91be61925f8e31f48cb033af91e699cafee')
+txt5('Tableau', 'Tableau Fundamentals Track','Sheet, Dashboard, Story, EDA, Parameters, Interactive', 'https://www.datacamp.com/statement-of-accomplishment/track/df95c91be61925f8e31f48cb033af91e699cafee')
 
 # txt4('Python', 'Introduction to Python', 'https://www.datacamp.com/statement-of-accomplishment/course/433731c66ae1b4bbeb40f3f89728156caf638850')
 # txt4('Python', 'Introduction to Data Science in Python', 'https://www.datacamp.com/statement-of-accomplishment/course/73bce8b85d68b36fe58943ad713efee0c29a829d')
