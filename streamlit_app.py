@@ -186,17 +186,17 @@ st.markdown('''
 st.markdown('''
 ## Data Analytics Project
 ''')
-txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Are vaccines absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed the relationship between vaccination rate data and the unemployment rate data, which could be an index reflecting the prosperity of the economy.',
+txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Are vaccines absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed the relationship between `vaccination rate` data and the `unemployment rate` data, which could be an index reflecting the prosperity of the economy.',
      'https://github.com/lilianchi/Does-Vaccination-Help-the-Economy')
 txt5('R', 'College-Major-Recommender', 'Many high school students run into a dilemma upon graduation.They do not know where to begin when trying to select a college major or even had changed their major more than twice afterwards. The tool is to aid them in this decision making process.',
      'https://github.com/lilianchi/College-Major-Recommender')
-txt5('SAS EM', 'Credit-Default-Prediction', 'Kaggle Competiton: Predicting credit default by developing a predictive model that utilizes historical payment status and certain demographical information to evaluate the likeliness of credit default.',
+txt5('SAS EM', 'Credit-Default-Prediction', 'Kaggle Competiton: Predicting `credit default` by developing a predictive model that utilizes historical payment status and certain demographical information to evaluate the likeliness of credit default.',
      'https://github.com/lilianchi/Credit-Default-Prediction')
 txt5('Python', 'lost-or-found?','Improved the ad-viewers’ experience by analyzing Craigslist’s business model and process of the platform to find improvements and solutions for this proposal with a demo implementation.',
      'https://github.com/lilianchi/lost-or-found')
-txt5('SQL', 'Database-Alternatives','Helped an interior design company to solve its timesheet calculation and checks tracking problem by building a database on SQL and executing data extraction',
+txt5('SQL', 'Database-Alternatives','Helped an interior design company to solve its timesheet calculation and checks tracking problem by building a database in `MySQL` and executing data extraction',
      'https://github.com/lilianchi/Database-Alternatives')
-txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series `random walk` forecast and an optimization model on SAS to optimize the resource allocation problem with minimized cost by `14.8%`',
+txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series `random walk` forecast and an `optimization model` on SAS to optimize the resource allocation problem with minimized cost by `14.8%`',
      'https://github.com/lilianchi/SAS-Optimization-Challenge')
 
 #####################
