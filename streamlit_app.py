@@ -30,7 +30,7 @@ st.info('''
 - Analytics professional with 3-year work experiences in pharmaceutical and high-tech industry.
 - Love digging deep into data and taking on challenges!
 - With cross-function collaboration mindset and creative/ critical thinking.
-- Core Competencies: Business Analytics, Statistics, Data Mining, Machine Learning, NLP, Database Management, Operation Management, Logistics, Marketing Analytics, A/B Test, Data Visualization, Written/Oral Communication, High Flexibility/Responsibility/Accountability.
+- Core Competencies: Business Analytics, Statistics, Data Mining, ETL, Marketing Analytics, A/B Test, Machine Learning, NLP, Data Visualization, Written/Oral Communication, High Flexibility/Responsibility/Accountability.
 ''')
 
 
