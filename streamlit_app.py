@@ -196,7 +196,7 @@ txt5('Python', 'lost-or-found?','Enhanced the ad-viewers’ experience by analyz
      'https://github.com/lilianchi/lost-or-found')
 txt5('SQL', 'Database-Alternatives','Helped an interior design company to solve its timesheet calculation and checks tracking problem by building a database in `MySQL` and executing data extraction',
      'https://github.com/lilianchi/Database-Alternatives')
-txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series `random walk` forecast and an `optimization model` to optimize the resource allocation problem with minimized cost by `14.8%`',
+txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series `random walk` forecast and an `optimization model` to optimize the resource allocation problem with minimized cost by `14.8%`.',
      'https://github.com/lilianchi/SAS-Optimization-Challenge')
 
 #####################
