@@ -203,9 +203,9 @@ txt5('SAS', 'SAS-Optimization-Challenge', 'Applied a time-series `random walk` f
 st.markdown('''
 ## Skill
 ''')
-txt3('Basic Analytics Tools', '`MS Excel`, `Excel with Analytic Solver`, `@RISK 8.2`, `StatTools 8.2`')
+txt3('Basic Analytics Tools', '`MS Excel`, `Excel with Analytic Solver`, `@RISK 8.2`')
 txt3('Programming', '`Python`, `SQL`, `R`, `SAS`, `SAS EM`')
-txt3('Statistics', '`Minitab`')
+txt3('Statistics', '`Minitab`, `StatTools 8.2`')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
 txt3('Data visualization', '`Power BI`, `Tableau`, `matplotlib`, `seaborn`, `ggplot2`')
 txt3('Machine Learning','`scipy`, `scikit-learn`')
