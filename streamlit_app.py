@@ -216,7 +216,7 @@ txt3('Model deployment', '`streamlit`, `R Shiny`')
 st.markdown('''
 ## Certificate
 ''')
-txt5('Oracle SQL', 'Oracle Database 12c SQL Certified Associate 1Z0-071','DDL, DML, Aggregration, Join, Condition Expressions, Subquery, Datetime, Sequences, Synonyms, Indexes, Views, User access','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
+txt5('Oracle SQL', 'Oracle Database 12c SQL Certified Associate 1Z0-071','DDL, DML, DQL, DCL, Aggregration, Join, Condition Expressions, Subquery, Datetime, Sequences, Synonyms, Indexes, Views, User access','https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a070e10-e731-4b9e-bf8d-716ebb08745d.pdf')
 txt5('Python', 'Python Fundamentals Track', 'Advanced level in assessment','https://www.datacamp.com/statement-of-accomplishment/track/4a3acb93fce85aabfd09390230585a217c9932dc')
 txt5('Python', 'Data Manipulation with Python Track', 'Data Manipulation, Join Data, Database in Python','https://www.datacamp.com/statement-of-accomplishment/track/ecc0df4491f3f40f4e2b5e6a9396660b1f0dd179')
 txt5('Python', 'Data Analyst Track', 'Visualization with Matplotlib/Seaborn, Importing/ Cleaning data, EDA, Categorical Data', 'https://www.datacamp.com/statement-of-accomplishment/track/feb13a3355b8ad31a25dbd7bb28e11dfd8ad34f1')
