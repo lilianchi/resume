@@ -188,7 +188,7 @@ st.markdown('''
 ''')
 txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Are vaccines absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed and visualized the relationship between CDC `vaccination rate` data and U.S. economy indicators, `unemployment rate` data.',
      'https://github.com/lilianchi/Does-Vaccination-Help-the-Economy')
-txt5('R', 'College-Major-Recommender', 'Many high school students run into a dilemma upon graduation.They do not know where to begin when trying to select a college major. Developed an `interactive prediction model` in `R Shiny` app to aid them in this decision making process.',
+txt5('R', 'College-Major-Recommender', 'Many high school students run into a dilemma upon graduation.They do not know where to begin when trying to select a college major. Developed an `Random Forest` prediction model in `R Shiny app` with `interaction` features to aid them in this decision making process.',
      'https://github.com/lilianchi/College-Major-Recommender')
 txt5('SAS EM', 'Credit-Default-Prediction', 'Kaggle Competiton: Predicting `credit default` by building a predictive model that utilizes historical payment status and certain demographical information. Using `Gradient Boosting` and `Ensemble` technique.',
      'https://github.com/lilianchi/Credit-Default-Prediction')
