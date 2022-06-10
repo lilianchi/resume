@@ -186,7 +186,7 @@ st.markdown('''
 st.markdown('''
 ## Data Analytics Project
 ''')
-txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Are vaccines absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed and visualized the relationship between CDC `vaccination rate` data and U.S. economy indicators, `unemployment rate` data.',
+txt5('Python', 'Does-Vaccination-Help-the-Economy?', 'Are vaccines absolutely, 100 percent the answer to economic challenges imposed by the pandemic? Analyzed and visualized the relationship between CDC `vaccination rate` data and U.S. economic indicators, `unemployment rate` data.',
      'https://github.com/lilianchi/Does-Vaccination-Help-the-Economy')
 txt5('R', 'College-Major-Recommender', 'Many high school students run into a dilemma upon graduation. They do not know where to begin when trying to select a college major. Developed a `Random Forest` prediction model in `R Shiny app` with `interactive` features to aid them in this decision-making process.',
      'https://github.com/lilianchi/College-Major-Recommender')
