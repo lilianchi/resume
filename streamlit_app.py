@@ -21,16 +21,16 @@ image = Image.open('Professional Photo_2.png')
 st.image(image, width=150)
 
 st.info('''
-##### I am looking for full-time *Business Analyst*/ *Data Analyst*/ *Data Scientist* positions! 
+##### I am a senior analyst at Cardlytics, but open to full-time *Business Analyst*/ *Data Analyst*/ *Data Scientist* positions! 
 ''')
 
 st.markdown('## About', unsafe_allow_html=True)
 st.info('''
-- Master's Degree in Business Analytics and Information Management at Purdue University.
-- Analytics professional with 3-year work experiences in pharmaceutical and high-tech industry.
+- A data analyst with 4+ years of experiences and a graduate of Purdue University Business Analytics major.
+- Proficient in analyzing scalable datasets, digital media measurement, and statistical skills.
 - Love digging deep into data and taking on challenges!
 - With cross-function collaboration mindset and creative/ critical thinking.
-- Core Competencies: Business Analytics, Statistics, Data Mining, ETL, Marketing Analytics, A/B Test, Machine Learning, NLP, Data Visualization, Written/Oral Communication, High Flexibility/Responsibility/Accountability.
+- Core Competencies: Business Analytics, Statistics, Data Mining, ETL, Marketing Analytics, A/B Test, Machine Learning, Data Visualization
 ''')
 
 
@@ -138,6 +138,14 @@ st.markdown('''
 #####################
 st.markdown('''
 ## Work Experience
+''')
+
+txt('**Senior Analyst, Cardlytics**','Jul.2022 - Now')
+txt('Client Analytics, General Retail', 'Boston, Massachusetts')
+st.markdown('''
+- Identified opportunities for insights based on `first-party purchase data` to help retailers to acquire and engage with customers
+- Measured campaign performance using `A/B test` and `digital media` platform data to support client media mix investment 
+- Shaped business/ marketing `strategies` with client success team and external industry partners
 ''')
 
 txt('**Data Analyst Student, Spf.io**','Jan.2022 - Apr.2022')
